@@ -1,21 +1,16 @@
 <template>
 	<div class="home">
-		'你好'
-        <thanksgiving />
+		'感恩节'
 	</div>
 </template>
 
 <script>
-import Thanksgiving from '../../components/festival/thanksgiving/index.vue'
 export default {
-	name:"Home",
+	name:"Thanksgiving",
     data () {
         return {
-
+        	
         }
-    },
-    components: {
-        "thanksgiving": Thanksgiving
     },
     methods: {
     	
