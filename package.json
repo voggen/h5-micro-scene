@@ -1,7 +1,7 @@
 {
-  "name": "webpack-test",
+  "name": "h5-micro-scene",
   "version": "1.0.0",
-  "description": "webpack test demo",
+  "description": "h5-micro-scene-demo",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --config webpack.config.dev.js --progress --inline",
