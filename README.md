@@ -11,5 +11,6 @@ cd h5-micro-scene
 npm install
 
 # develop
-npm run dev
+npm run start
 ```
+This will automatically open http://localhost:9000
